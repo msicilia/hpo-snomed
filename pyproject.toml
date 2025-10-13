@@ -1,0 +1,14 @@
+[project]
+name = "hpo-snomed"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "marimo>=0.14.12",
+    "networkx>=3.5",
+    "obonet>=1.1.1",
+    "pandas>=2.3.1",
+    "seaborn>=0.13.2",
+]
