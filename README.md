@@ -15,6 +15,6 @@ The first step is running `1_extract_annotate.py` that takes the HPO ontology, e
 ### Additional info
 
 #### Detailed mappings to SNOMED
-See applicable attributes in SNOMED CT https://browser.ihtsdotools.org/mrcm/?branch=MAIN%2F2025-04-01
-Detailed mappings to SNOMED CT expressions: https://confluence.ihtsdotools.org/display/CC/HPO+to+SNOMED+mapping
+See applicable attributes in SNOMED CT[ https://browser.ihtsdotools.org/mrcm/?branch=MAIN%2F2025-04-01](https://browser.ihtsdotools.org/mrcm/)
+Detailed mappings to SNOMED CT expressions:[ https://confluence.ihtsdotools.org/display/CC/HPO+to+SNOMED+mapping](https://conf.spaces.snomed.org/wiki/spaces/CC/pages/131829033/HPO+to+SNOMED+mapping)
 Video about the mappings: https://www.youtube.com/watch?v=d_4QPmTBtfs 
